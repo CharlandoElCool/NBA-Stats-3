@@ -1,0 +1,32 @@
+<html>
+
+  <head>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Analysis of NBA Players</title>
+  </head>
+
+  <body>
+    <p><b>A Closer Look At The NBA</b></p>
+    <img width="300" src="NBA LOGO, RED BACKGROUND.png"></img>
+
+    <p>This is an analysis of NBA players from the 1996-1997 season through 2021-2022 season</p>
+
+    </p>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scatter Plot with D3.js</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <!-- Graph should work here if correct -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+    <p><b>Figure 1.1</b> This graph shows the median
+
+  </body>
+</html>
